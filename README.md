@@ -1,2 +1,2 @@
 # git_test
-part of odin project lesson
+"Hello Odin!"
